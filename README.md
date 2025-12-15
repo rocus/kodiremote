@@ -1,6 +1,6 @@
 **GENERAL**
 
-As a longtime user of Kodi (a video streamer on cheap hardware i.e. a raspberry pi) and yatse (a Kodi remote control app on Android) I miss a device (with limited remote control functions) with real buttons instead of a touchscreen buttons. 
+As a longtime user of Kodi (a video streamer on cheap hardware i.e. a raspberry pi) and yatse (a Kodi remote control app on Android) I miss a device (with limited remote control functions) with real buttons instead of touchscreen buttons. 
 
 This (small) project shows how to make and design a small handheld device that let you use the most used functions of a kodi remote control with real buttons.
 
